@@ -7,7 +7,7 @@
  *
  * Return: (Solution)
  */
-int add(int e, int b)
+int add(int i, int j)
 {
-	return (e + b);
+	return (i + j);
 }
